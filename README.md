@@ -124,7 +124,7 @@ It's 2026. You have an agent. Let it install the skill for you:
 
 ```text
 Install the trend-aware-content-improver skill for me:
-<your GitHub repo URL>
+[https://github.com/yjzscode/InternetSensorSkill](https://github.com/yjzscode/InternetSensorSkill)
 ```
 
 The agent should detect the current host's skills directory, copy or clone the repo, and register the `SKILL.md` entrypoint. Once installed, invoke it by skill name or natural language:
