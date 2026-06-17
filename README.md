@@ -1,6 +1,14 @@
 # 📈 InternetSensorSkill
 ### *"Where real-time virality meets long-term account positioning."*
 
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Compatible-green)](https://agentskills.io)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Codex](https://img.shields.io/badge/Codex-Skill-black)](https://github.com/openai/codex)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-teal)](https://openclaw.ai/)
+[![Hermes](https://img.shields.io/badge/Hermes-Best%20Effort-orange)](https://github.com/nousresearch/hermes-agent)
+[![License](https://img.shields.io/badge/License-Personal%20Use-lightgrey)](#license)
+
 ## Introduction
 
 <p align="center">
@@ -15,13 +23,6 @@
 
 </details>
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
-[![AgentSkills](https://img.shields.io/badge/AgentSkills-Compatible-green)](https://agentskills.io)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Codex](https://img.shields.io/badge/Codex-Skill-black)](https://github.com/openai/codex)
-[![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-teal)](https://openclaw.ai/)
-[![Hermes](https://img.shields.io/badge/Hermes-Best%20Effort-orange)](https://github.com/nousresearch/hermes-agent)
-[![License](https://img.shields.io/badge/License-Personal%20Use-lightgrey)](#license)
 
 > 中文文档: [README.zh-CN.md](README.zh-CN.md)
 
