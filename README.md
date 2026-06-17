@@ -11,10 +11,6 @@
 
 ## Introduction
 
-<p align="center">
-  <video src="https://github.com/yjzscode/InternetSensorSkill/raw/main/Screen-2026-06-17-155458.mp4" controls muted loop style="width:100%; height:auto; max-width:960px;"></video>
-</p>
-
 <details>
   <summary>🎬 Click for Demo Video </summary>
   <br>
