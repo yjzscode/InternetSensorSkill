@@ -1,0 +1,28 @@
+{
+  "platform": "xiaohongshu",
+  "topic": "tool/skill 推广（个人博主运营助手）",
+  "account": "xiaohongshu_FromMath2Mad_example",
+  "original": {
+    "body": "实时爆款网感 × 长期账号定位，网感增强.skill成为最好用的个人博主运营助手？这个skill可以实时抓取相似爆款、理解你的长期账号定位，并把你想学习的大博主沉淀成可复用的选题引擎，推荐大家都试试，说不定涨粉速度就此起飞了！"
+  },
+  "scores": {
+    "hook_strength": 5,
+    "novelty": 5,
+    "authenticity": 4,
+    "shareability": 5,
+    "saveability": 5,
+    "platform_fit": 5,
+    "ai_smell": 6
+  },
+  "vibe_index": 34,
+  "problems": [
+    "营销号腔，偏离账号定位：『成为最好用的个人博主运营助手？』是自夸式产品宣传口吻，与『AI科研女博主、真诚活人感、避免广告味推销』的定位直接冲突，platform_fit/authenticity 双低。",
+    "AI味/书面腔重：『实时爆款网感 × 长期账号定位』这种 × 排版是 PPT/营销标题腔；『最好用』是空泛形容词无具体细节。",
+    "夸大功效嫌疑：『推荐大家都试试，说不定涨粉速度就此起飞了』属于绝对化/效果承诺，小红书敏感，也削弱真实感。",
+    "无第一人称真实经历：全程在说『这个skill能…』，像产品说明书，没有『我为什么做它、用起来什么感受』，缺活人感。",
+    "格式不符：整段堆在一起不分行，没有小红书短句+emoji+留白的结构。",
+    "缺收藏/互动钩子：结尾是空泛号召，没有可操作信息或真实互动入口。"
+  ],
+  "reference_basis": "reference_examples.json + account_reference_examples.json",
+  "formula_config": "para_config.yaml#predicted_vibe_index (default)"
+}

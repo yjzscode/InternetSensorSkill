@@ -1,0 +1,109 @@
+{
+  "platform": "xiaohongshu",
+  "query": "AI 人工智能 diffusion 扩散模型 加速",
+  "provider": "cdp",
+  "ranked_by": "vibe_score",
+  "count": 5,
+  "examples": [
+    {
+      "title": "让5个AI文明模拟人生，它竟然灭亡了...",
+      "url": "https://www.xiaohongshu.com/search_result/6a2b9de80000000021016d6f?xsec_token=ABHo2ZQJn8442pu2iqw2guzifV4jEXJVN6xFnIZXJtr8o=&xsec_source=",
+      "vibe_score": 98.3,
+      "engagement": {
+        "likes": 4328,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "数字生命卡兹克",
+      "author": "数字生命卡兹克",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "绿缕铝驴",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "让AI提出novel ideas的一些思考",
+      "url": "https://www.xiaohongshu.com/search_result/6a2736bf0000000006037f3d?xsec_token=ABS2G_X-cQl8nW6dDZ9B8O4KaReDNQ7afjbFiKm1IZF9g=&xsec_source=",
+      "vibe_score": 86.6,
+      "engagement": {
+        "likes": 1602,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "幸运降临中",
+      "author": "幸运降临中",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "Demitasse-",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note"
+    },
+    {
+      "title": "Awesome One-Step Diffusion｜一步生成合集",
+      "url": "https://www.xiaohongshu.com/search_result/6a3018620000000021021e87?xsec_token=AB4BzrSaMpdiDGBtJtXHOHLnsG9Wf3SmkHM0ncJnUU0O8=&xsec_source=",
+      "vibe_score": 59.9,
+      "engagement": {
+        "likes": 163,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "Disillusion",
+      "author": "Disillusion",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "绿缕铝驴",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "一分钟图解：Flow Matching",
+      "url": "https://www.xiaohongshu.com/search_result/6a2f6b41000000002101a6be?xsec_token=ABjAP2wY82UDGp52aPz059Q-JL6IOH7Rr5KJwnF82wxuA=&xsec_source=",
+      "vibe_score": 59.2,
+      "engagement": {
+        "likes": 154,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "CrazyAllen",
+      "author": "CrazyAllen",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "Demitasse-",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note"
+    },
+    {
+      "title": "谷歌开源26B扩散MoE：生成速度狂飙4倍！",
+      "url": "https://www.xiaohongshu.com/search_result/6a2a33fd00000000070281a8?xsec_token=ABaRrdKO4wS2WmZmDu4F0h1HVauLV1pAymrczs_QJVXyg=&xsec_source=",
+      "vibe_score": 56.3,
+      "engagement": {
+        "likes": 120,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "机器之心",
+      "author": "机器之心",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "绿缕铝驴",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+# Platform rule library: LinkedIn
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+
+platform: linkedin
+display_name: LinkedIn
+language: en
+
+title_patterns:
+  - "I got rejected N times. Here's what I learned."   # vulnerable-growth hook
+  - "After N years in X, here's what nobody tells you." # earned-authority hook
+  - "We just shipped X. Here's how."                    # build-in-public hook
+  - "I made a mistake that cost us X. Lesson:"          # honest-failure hook
+  - "Stop doing X. Do this instead."                    # advice-pivot hook
+
+emotion_levers:
+  - aspiration       # career growth, ambition
+  - credibility      # expertise and results
+  - vulnerability    # honest lessons, not just wins
+  - belonging        # "we", team and community
+  - usefulness       # takeaways the reader can apply
+
+structure:
+  - Hook             # first line shows before "…see more" cut
+  - Context          # short story / situation
+  - Insight          # the lesson or framework
+  - Takeaway         # what the reader should do
+  - Engagement       # a question to prompt comments
+
+formatting:
+  emoji: light            # a few, professional
+  line_breaks: frequent   # short paragraphs, white space
+  length: "150-400 words"
+  hashtags: "3-5 relevant"
+  tone: professional-warm # credible but human, first-person
+
+ai_smell_signals:
+  - buzzword soup           # "synergy", "leverage", "circle back"
+  - humblebrag with no lesson
+  - generic motivational filler
+  - no specific story or number
+  - over-formatted "thought leadership"
+
+dos:
+  - Lead with a strong first line (before the "see more" fold)
+  - Tell a specific story with a concrete outcome
+  - Share a real lesson, including failures
+  - End with a question to drive comments
+
+donts:
+  - Don't drown the post in buzzwords
+  - Don't post vague motivation with no substance
+  - Don't humblebrag without a takeaway
+  - Don't write a wall of text — break it up

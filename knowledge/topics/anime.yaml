@@ -1,0 +1,38 @@
+# Topic framing: Anime / 动漫 (含国漫、番剧、追番安利)
+# Domain layer applied on top of a platform's rules. Read offline (V1).
+
+topic: anime
+display_name: 动漫 / 国漫 / 番剧
+aliases: [动漫, 国漫, 番剧, 追番, 动画, 安利, 完美世界, 斗破苍穹, 遮天, 仙侠,
+          玄幻, anime, donghua, manga, 二次元]
+
+audience_intent:
+  - 找好看的番补番        # find a worthwhile series to watch
+  - 同好共鸣 / 嗑剧情     # fandom resonance, shared hype
+  - 安利向人推荐          # ammo to recommend it to others
+  - 考据 / 看名场面解析    # lore, easter eggs, scene breakdowns
+
+typical_hooks:
+  - 名场面 / 高燃片段      # the iconic / hype moment as the hook
+  - 反差安利（别被X劝退）  # "don't drop it at ep N, it gets good"
+  - 国漫崛起 / 作画封神    # rising-donghua, animation-peak angle
+  - 角色高光 / cp 向       # character spotlight, ship-bait
+
+saveability_cues:
+  - 追番顺序 / 第几集入坑   # watch order, which ep it gets good
+  - 名场面集数定位         # exact episodes of key scenes
+  - 原著与动画对照         # novel-vs-anime comparison
+  - 同类型推荐清单         # similar-series recommendation list
+
+credibility_cues:
+  - 真看过（具体到剧情/角色/集数）
+  - 给优缺点而非纯吹       # balanced take, not blind praise
+  - 懂原著/世界观背景       # shows real lore knowledge
+  - 引用具体名场面或台词
+
+# Topic-specific AI-smell to avoid.
+ai_smell_signals:
+  - 「画面好看打斗精彩」等空泛吹捧，无具体剧情/角色/集数
+  - 通用到换个番名也成立的安利
+  - 不懂原著硬安利
+  - 营销号式标题党

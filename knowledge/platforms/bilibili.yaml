@@ -1,0 +1,59 @@
+# Platform rule library: Bilibili (B站)
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+# Bilibili also has a key-free native retrieval provider (retrieval/bilibili.py)
+# that returns real play/like/favorites/danmaku for V2 trend ranking.
+
+platform: bilibili
+display_name: 哔哩哔哩 / Bilibili
+language: zh
+
+# Recurring high-performing title shapes for video posts / 动态.
+title_patterns:
+  - "前方高能……"                # hype / brace-yourself hook
+  - "全网最全X盘点"              # definitive-roundup hook
+  - "看完直接封神……"            # peak-praise hook
+  - "N分钟看懂X"                 # time-boxed explainer hook
+  - "这才是X该有的样子"          # standard-setting hook
+  - "考古/补番必看……"           # backlog / catch-up hook
+
+# Emotional levers that drive 三连 (like + coin + favorite) and danmaku.
+emotion_levers:
+  - 燃          # adrenaline / hype (especially 国漫 fight scenes)
+  - 情怀        # nostalgia / fandom belonging
+  - 反差        # contrast / unexpected twist
+  - 考据        # depth, easter eggs, lore for the faithful
+  - 收藏价值    # save-worthy: guides, compilations, breakdowns
+
+# Canonical video / 动态 skeleton.
+structure:
+  - 封面与标题    # thumbnail + title must win the click
+  - 开头钩子      # first 5-10s / first line hooks (避免拖沓)
+  - 高能正文      # the payoff: highlights, breakdown, reaction
+  - 三连引导      # ask for like/coin/favorite + follow
+
+formatting:
+  emoji: light            # emoji light; 颜文字 and danmaku-style ok
+  line_breaks: frequent   # short lines for 动态 text
+  length: "动态 50-300字；视频简介含分集/时间轴"
+  hashtags: "2-5个 话题tag，如 #完美世界 #国漫"
+  tone: 社区化            # community in-jokes, 二次元 slang, 弹幕文化
+
+# Signals that content reads as AI-written / off-community and kills vibe.
+ai_smell_signals:
+  - 营销号腔          # clickbait-farm tone, hollow hype
+  - 无信息量的吹捧    # praise with no specifics (剧情/作画/角色)
+  - 不懂梗硬蹭        # forcing memes/slang without understanding
+  - 通稿式简介        # press-release-style description
+  - 标题党货不对板    # title oversells, content underdelivers
+
+dos:
+  - 标题给具体看点（哪一集、哪个名场面、什么名场景）
+  - 开头几秒/首句直接抛高能，别铺垫太久
+  - 用社区黑话和梗，但要用对（弹幕、三连、awsl 等）
+  - 结尾自然引导三连和关注，给收藏理由（盘点/时间轴/补番指南）
+
+donts:
+  - 不要营销号式空洞吹捧，没有具体剧情/作画细节
+  - 不要标题党，标题和内容货不对板
+  - 不要硬蹭看不懂的梗
+  - 不要写成通稿/说明书腔

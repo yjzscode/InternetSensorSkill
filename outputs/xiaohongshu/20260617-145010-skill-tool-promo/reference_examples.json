@@ -1,0 +1,109 @@
+{
+  "platform": "xiaohongshu",
+  "query": "个人博主运营助手 涨粉 选题工具 AI",
+  "provider": "cdp",
+  "ranked_by": "vibe_score",
+  "count": 5,
+  "examples": [
+    {
+      "title": "idea真不值钱啊",
+      "url": "https://www.xiaohongshu.com/search_result/69494918000000001e017721?xsec_token=ABVMrqVUi8rzk-9HLuy_sRf8xZ3HmWoNSgJx6wM0RjdjI=&xsec_source=",
+      "vibe_score": 100.0,
+      "engagement": {
+        "likes": 11000,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "魔力炒饭大师",
+      "author": "魔力炒饭大师",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "她一开口，我就知道她很懂AI Agent",
+      "url": "https://www.xiaohongshu.com/search_result/699eac64000000001b01cf8b?xsec_token=ABbPSPnbj9rYzmKgJn6DhxjPOOYbVJe4dtTcO7Sp3iCS0=&xsec_source=",
+      "vibe_score": 78.9,
+      "engagement": {
+        "likes": 827,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "四季奶青",
+      "author": "四季奶青",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "我把小红书 百万曝光 的方法，做成了 Skill",
+      "url": "https://www.xiaohongshu.com/search_result/6a18fbc0000000003601ff68?xsec_token=ABnNSDYuAmMFIL17pZha8px0Qma6V_C84TTes0J_aszqU=&xsec_source=",
+      "vibe_score": 70.8,
+      "engagement": {
+        "likes": 1661,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "子圭时安",
+      "author": "子圭时安",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "你真的得极度失业才能跟得上 AI 的发展",
+      "url": "https://www.xiaohongshu.com/search_result/6a298b09000000002003acf0?xsec_token=AB27k6Uf5t1YlN5zyHVdNElVs7YBi7rpwfpsWT47Ox_70=&xsec_source=",
+      "vibe_score": 67.5,
+      "engagement": {
+        "likes": 1875,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "鹅鹅鹅",
+      "author": "鹅鹅鹅",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search"
+    },
+    {
+      "title": "普通人做自媒体，流量越发越多的秘诀-1",
+      "url": "https://www.xiaohongshu.com/search_result/68a4961b000000001c006d21?xsec_token=ABD6mKE2aGPLINJcEG8M6gcY2zIPOW0idvbDQ1qQVPSfI=&xsec_source=",
+      "vibe_score": 64.7,
+      "engagement": {
+        "likes": 247,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "published": "",
+      "snippet": "",
+      "account": "好运降林",
+      "author": "好运降林",
+      "source_type": "reference_account",
+      "reference_role": "trend_hotspot",
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+# Platform rule library: Weibo / 微博
+# Consumed offline by the Vibe Critic (V1). Retrieval uses retrieval/weibo.py,
+# a key-free m.weibo.cn JSON provider with repost/comment/like counts.
+
+platform: weibo
+display_name: 微博 / Weibo
+language: zh
+
+title_patterns:
+  - "刚刚，X……"                 # timeliness hook
+  - "没想到X竟然……"             # surprise / reversal
+  - "这件事最值得看的是……"       # opinion-first framing
+  - "一图看懂X"                  # concise explainer
+  - "X回应了……"                  # update / follow-up hook
+  - "谁懂，这个X真的……"          # relatable emotion hook
+
+emotion_levers:
+  - 时效感        # real-time heat
+  - 立场感        # clear stance
+  - 共鸣          # emotional resonance
+  - 反转          # unexpected twist
+  - 讨论欲        # easy to quote/repost/comment
+
+structure:
+  - 热点钩子      # what happened / why now
+  - 关键信息      # 1-3 concrete facts, not a wall of text
+  - 态度判断      # clear but defensible stance
+  - 互动引导      # ask for comments / repost angle
+
+formatting:
+  emoji: light
+  line_breaks: moderate
+  length: "80-300字"
+  hashtags: "1-3个话题标签"
+  tone: 热点评论化
+
+ai_smell_signals:
+  - 官样通报腔
+  - 无立场复述新闻
+  - 大段正确废话
+  - 强行上价值
+  - 话题标签堆砌
+
+dos:
+  - 开头先交代最新进展或最大反差
+  - 给出可转发的一句话观点
+  - 用具体事实支撑态度，避免空喊情绪
+  - 话题标签少而准，优先使用真实热搜词
+
+donts:
+  - 不要写成长篇公众号腔
+  - 不要只搬运新闻标题
+  - 不要用未经证实的绝对化表述
+  - 不要堆满无关话题标签

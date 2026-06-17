@@ -1,0 +1,7 @@
+interface:
+  display_name: "Trend-Aware Content Improver"
+  short_description: "账号定位与平台热点驱动的文案优化"
+  default_prompt: "Use $trend-aware-content-improver to optimize this post for Xiaohongshu while preserving account positioning."
+
+policy:
+  allow_implicit_invocation: true

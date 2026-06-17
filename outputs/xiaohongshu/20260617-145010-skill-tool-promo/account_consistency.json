@@ -1,0 +1,25 @@
+{
+  "platform": "xiaohongshu",
+  "account": "xiaohongshu_FromMath2Mad_example",
+  "evaluated": "rewrite (版本A/B 同评)",
+  "dimensions": {
+    "audience_fit": 9,
+    "domain_fit": 8,
+    "tone_voice_fit": 9,
+    "value_prop_fit": 8,
+    "reference_account_alignment": 8,
+    "hard_constraint_compliance": 9
+  },
+  "account_consistency_score": 82,
+  "notes": [
+    "audience_fit：第一人称科研人视角 + AI工具，正中核心人群（AI同行/高校学生），高。",
+    "tone_voice_fit：真诚、自嘲、emoji 开头，贴近账号已验证的爆款语气（实验室汗流浃背款）。",
+    "domain_fit：从主领域科研/AI 延展到『AI工具自用』，属合理延展，不算跑偏；但偏运营话题，注意别滑向纯涨粉号。",
+    "reference_account_alignment：学到了 FromMath2Mad 的语气与 emoji 节奏，没有照抄原句/经历，对齐良好。",
+    "hard_constraint_compliance：删除效果承诺，规避了推销腔，符合『避免广告味太浓』硬约束。"
+  ],
+  "main_deductions": [
+    "运营/涨粉题材本身离账号科研主线稍远，长期高频发可能稀释『科研女博主』人设——偶发可，别变主线。",
+    "工具尚未确认是否公开，若暗示可领易被判定引流。"
+  ]
+}

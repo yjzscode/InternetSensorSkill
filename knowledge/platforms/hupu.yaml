@@ -1,0 +1,55 @@
+# Platform rule library: Hupu / 虎扑
+# Consumed offline by the Vibe Critic (V1). Retrieval uses CDP forum/search pages
+# and captures lights/replies/views when visible.
+
+platform: hupu
+display_name: 虎扑 / Hupu
+language: zh
+
+title_patterns:
+  - "理性讨论，X到底什么水平？"    # debate hook
+  - "这波X怎么评价？"              # community judgment
+  - "看完X，我有个暴论……"         # stance hook
+  - "X是不是被低估了？"            # underrated debate
+  - "一张图说明X的问题"            # evidence-led
+  - "兄弟们，X真不是错觉"          # community voice
+
+emotion_levers:
+  - 胜负欲        # competitive tension
+  - 立场对抗      # debate and ranking
+  - 数据说服      # stats/evidence
+  - 兄弟感        # forum camaraderie
+  - 反差          # over/under-performance
+
+structure:
+  - 观点开门见山  # state the take directly
+  - 证据          # data, screenshots, clips, comparisons
+  - 反方预判      # answer likely objections
+  - 讨论引导      # invite ranking / voting / replies
+
+formatting:
+  emoji: none
+  line_breaks: moderate
+  length: "100-600字"
+  hashtags: none
+  tone: 论坛讨论化
+
+ai_smell_signals:
+  - 官方解说腔
+  - 没数据的空口判断
+  - 不懂社区黑话硬蹭
+  - 标题引战但正文没证据
+  - 过度圆滑没有立场
+  - 写小作文，不要分点序号
+
+dos:
+  - 标题给出明确可争论的问题
+  - 用数据、场景或对比支撑判断
+  - 预判反对意见，留出讨论空间
+  - 语言像论坛真人发帖，不像新闻稿
+
+donts:
+  - 不要只喊强/弱而无证据
+  - 不要为了引战捏造事实
+  - 不要写成通稿或赛后总结
+  - 不要硬用不熟的梗

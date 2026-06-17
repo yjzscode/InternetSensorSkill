@@ -1,0 +1,52 @@
+# Platform rule library: Zhihu (知乎)
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+
+platform: zhihu
+display_name: 知乎
+language: zh
+
+title_patterns:
+  - "如何评价……？"            # the canonical Zhihu question frame
+  - "为什么……？"              # causal-curiosity frame
+  - "……是一种怎样的体验？"     # first-person experience frame
+  - "说几个反直觉的事实……"     # counterintuitive-insight hook
+  - "先说结论：……"            # conclusion-first answer opener
+
+emotion_levers:
+  - 专业权威      # expertise / authority — earned, sourced
+  - 干货价值      # dense, useful, structured information
+  - 反直觉        # counterintuitive insight that reframes
+  - 理性思辨      # reasoned analysis, multiple angles
+  - 故事代入      # a personal experience that grounds the point
+
+structure:
+  - 结论          # state the conclusion up front (先说结论)
+  - 论证          # layered reasoning with evidence
+  - 案例          # concrete examples / data / personal experience
+  - 总结          # recap and caveats
+
+formatting:
+  emoji: none             # emoji read as unserious here
+  line_breaks: moderate   # paragraphs + headings for long answers
+  length: "500-3000字"    # long-form rewarded
+  hashtags: none          # topics are tags on the question, not inline
+  tone: 理性专业          # rational, well-reasoned, lightly personal
+
+ai_smell_signals:
+  - 正确的废话        # technically-true but content-free statements
+  - 缺少论据          # claims without evidence or sources
+  - 结构松散          # rambling without a clear thesis
+  - 过度泛泛          # generic answers that fit any question
+  - 抖机灵无干货      # being clever with no substance
+
+dos:
+  - 先说结论，再展开论证
+  - 用数据、案例、亲身经历支撑观点
+  - 承认边界和反例，显得理性可信
+  - 长答案用小标题分段
+
+donts:
+  - 不要写正确的废话和空泛结论
+  - 不要只有观点没有论据
+  - 不要用小红书式的卖萌口吻
+  - 不要东拉西扯没有主线

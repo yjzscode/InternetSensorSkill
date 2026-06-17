@@ -1,0 +1,10 @@
+{
+  "account_positioning_available": false,
+  "confidence": "low",
+  "account_consistency_score": null,
+  "note": "账号定位文件为空模板，无法计算账号一致性分数。改写仅按知乎平台规则与真实爆款规律对齐。若需账号一致性评分，请先填写 myaccount/account_positioning.md（人群、领域边界、语气、硬约束）。",
+  "dimensions_estimated": {
+    "platform_format_fit": 8,
+    "voice_style_fit": "无定位基准，不评分"
+  }
+}

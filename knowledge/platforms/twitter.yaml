@@ -1,0 +1,53 @@
+# Platform rule library: Twitter / X
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+
+platform: twitter
+display_name: Twitter / X
+language: en
+
+title_patterns:
+  - "I spent N hours so you don't have to."   # time-saving payoff
+  - "Unpopular opinion:"                        # contrarian hook
+  - "A thread 🧵"                                # thread signal
+  - "Most people get X wrong. Here's why."      # myth-busting hook
+  - "This is the best X I've found. No ads:"    # curation hook
+  - "Nobody talks about this, but…"             # hidden-insight hook
+
+emotion_levers:
+  - curiosity        # open loop that demands the next line
+  - contrarianism    # against-the-grain take
+  - utility          # save-worthy, actionable
+  - relatability     # "this is so me"
+  - authority        # specific, earned insight
+
+structure:
+  - Hook             # line 1 must earn the click / expand
+  - Payoff           # deliver value fast, no preamble
+  - Proof            # specifics, numbers, example
+  - CTA              # follow / RT / read the thread
+
+formatting:
+  emoji: light            # selective, not decorative
+  line_breaks: frequent   # one idea per line, scannable
+  length: "single tweet <280 chars, or thread"
+  hashtags: "0-2 max"     # hashtags read as spammy here
+  tone: punchy            # direct, confident, conversational
+
+ai_smell_signals:
+  - hedging language        # "it's important to note that…"
+  - listicle bloat          # "10 ways" with thin items
+  - corporate tone          # "we are thrilled to announce"
+  - excessive hashtags
+  - no concrete claim        # all vibes, no specifics
+
+dos:
+  - Open with the strongest line; no warm-up
+  - Make one sharp, specific claim and back it
+  - Write like you talk; contractions are fine
+  - End threads with a clear follow / bookmark CTA
+
+donts:
+  - Don't bury the point below the fold
+  - Don't stuff hashtags
+  - Don't hedge every sentence
+  - Don't sound like a press release

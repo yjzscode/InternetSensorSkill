@@ -1,0 +1,153 @@
+{
+  "query": "AI工具 个人博主 涨粉 运营 选题",
+  "platform": "zhihu",
+  "provider": "cdp:zhihu",
+  "mode": "online",
+  "results": [
+    {
+      "title": "AI 图解万物，130 条作品涨粉 13.7 万！新手 3 步抄作业，做出万赞爆款",
+      "url": "https://zhuanlan.zhihu.com/p/2012124100387185046",
+      "snippet": "无相罐子：年最适合普通人的 AI 蓝海赛道 —— 图解万物。 有博主靠这个方向，仅更 130 条作品，狂涨 13.7 万粉",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 10,
+        "comments": 10,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "无相罐子",
+      "author": "无相罐子",
+      "published_days": null,
+      "vibe_score": 8.1
+    },
+    {
+      "title": "我一个人管公众号+小红书+B站，每周只花5小时，全靠这4个AI Agent",
+      "url": "https://zhuanlan.zhihu.com/p/2039462932250104830",
+      "snippet": "Aura：微信公众号运营 — 负责「公众号怎么做」 内容创作者出选题，这个 Agent 负责把选题落地成公众号文章",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 15,
+        "comments": 3,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "Aura",
+      "author": "Aura",
+      "published_days": null,
+      "vibe_score": 6.2
+    },
+    {
+      "title": "我写了一套内容分析系统，专门拆解爆款博主的选题逻辑",
+      "url": "https://zhuanlan.zhihu.com/p/2025154367062308641",
+      "snippet": "siuser小伟：同时监控多个同赛道博主，横向对比谁的策略更好 选题推荐：基于分析结果，自动推荐下一条该做什么选题 趋势预警：某个领域突然出现爆款内容时自动提醒",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 5,
+        "comments": 2,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "siuser小伟",
+      "author": "siuser小伟",
+      "published_days": null,
+      "vibe_score": 3.1
+    },
+    {
+      "title": "自媒体人如何做日常选题？",
+      "url": "https://www.zhihu.com/question/52155581/answer/2027041304991870983",
+      "snippet": "Aiadmin创想家：你还回来一份涵盖4大维度、12个以上可立即执行的选题清单。 一、使用效果 当你使用这个AI指令去生成爆款选题的时候，你会得到： 1、四个维度的立体选题矩阵",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 4,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "Aiadmin创想家",
+      "author": "Aiadmin创想家",
+      "published_days": null,
+      "vibe_score": 1.5
+    },
+    {
+      "title": "怎么快速获得 1000 粉？",
+      "url": "https://www.zhihu.com/question/656529716/answer/1969824526398394453",
+      "snippet": "叶明Andy：下面是一份我给学员用的AI涨粉工具表，分享给你： 目标 工具 功能 使用建议 选题灵感 ChatGPT、Kimi、Notion...",
+      "score": null,
+      "published": "2025-11-06",
+      "engagement": {
+        "likes": 11,
+        "comments": 4,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "叶明Andy",
+      "author": "叶明Andy",
+      "published_days": 223,
+      "vibe_score": 1.0
+    },
+    {
+      "title": "小红书一天涨粉4700，我都做了些什么？",
+      "url": "https://www.zhihu.com/question/533570457/answer/3616015818",
+      "snippet": "运营汪小七：学完后还能领一整套AI工具+做图工具+文案工具+运营工具，当下市面上热门的AI工具都包含在内了，后续会非常有用",
+      "score": null,
+      "published": "2025-06-23",
+      "engagement": {
+        "likes": 21,
+        "comments": 1,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "运营汪小七",
+      "author": "运营汪小七",
+      "published_days": 359,
+      "vibe_score": 0.7
+    },
+    {
+      "title": "有哪些不为人知但能极大提升工作效率的「小众」软件工具？",
+      "url": "https://www.zhihu.com/question/2016471785260986957/answer/2050265190248322647",
+      "snippet": "智Tool：有个 AI 博主分析功能，把对方的作品数据批量拉进来，AI 直接帮你总结这个账号的内容策略和涨粉逻辑",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 1,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "智Tool",
+      "author": "智Tool",
+      "published_days": null,
+      "vibe_score": 0.4
+    },
+    {
+      "title": "选题难？教你用Ai分分钟搞定1个月爆款选题",
+      "url": "https://zhuanlan.zhihu.com/p/2017556360250802740",
+      "snippet": "零克Club：把运营账号的昵称、简介、定位、人设、粉丝量、粉丝画像、选题范围和以往做过的选题等信息通通告诉AI；粘贴近期的爆文内容，或者视频脚本，告诉AI这篇笔记的数据和成果",
+      "score": null,
+      "published": "",
+      "engagement": {
+        "likes": 1,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "account": "零克Club",
+      "author": "零克Club",
+      "published_days": null,
+      "vibe_score": 0.4
+    }
+  ],
+  "ranked_by": "vibe_score"
+}

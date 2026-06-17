@@ -1,0 +1,36 @@
+# Topic framing: Sports / 体育 (basketball, football, matches, players)
+
+topic: sports
+display_name: 体育 / 篮球 / 足球
+aliases: [体育, 篮球, 足球, NBA, CBA, 中超, 英超, 欧冠, 球员, 比赛, 赛后,
+          sports, basketball, football, soccer, player, match]
+
+audience_intent:
+  - 看赛后观点和争议判断
+  - 找数据/场面支撑自己的看法
+  - 参与排名、对比、预测讨论
+  - 和同好共鸣或辩论
+
+typical_hooks:
+  - "X到底什么水平"
+  - "这场比赛转折点其实是……"
+  - "别只看数据，X这一点更关键"
+  - "被低估/被高估的球员或战术"
+
+saveability_cues:
+  - 关键数据和时间点
+  - 对比对象和样本范围
+  - 比赛片段/回合定位
+  - 后续赛程或影响
+
+credibility_cues:
+  - 具体到比赛、球员、回合或数据
+  - 能解释反方观点为什么不完全成立
+  - 不只看结果，也看过程
+  - 区分事实、推测和情绪
+
+ai_smell_signals:
+  - 没看比赛却泛泛评价
+  - 只堆数据不解释
+  - 过度中立没有观点
+  - 口号式吹捧或贬低

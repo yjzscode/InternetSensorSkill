@@ -1,0 +1,36 @@
+# Topic framing: Digital / 数码科技产品
+
+topic: digital
+display_name: 数码 / 科技产品 / 设备体验
+aliases: [数码, 手机, 电脑, 平板, 相机, 耳机, app, 软件, 产品体验, 测评,
+          digital, gadget, phone, laptop, camera, review]
+
+audience_intent:
+  - 判断是否值得买或升级
+  - 找真实体验和避坑点
+  - 对比竞品差异
+  - 收藏参数、价格和使用建议
+
+typical_hooks:
+  - "用了X天后，最意外的是……"
+  - "先说缺点，再说适合谁"
+  - "别只看参数，X体验差别很大"
+  - "预算X以内怎么选"
+
+saveability_cues:
+  - 价格、配置和购买渠道
+  - 适合/不适合人群
+  - 续航、重量、发热、兼容性等真实体验
+  - 竞品对比表
+
+credibility_cues:
+  - 长时间使用或具体场景测试
+  - 暴露缺点和限制条件
+  - 参数与体验结合
+  - 样张/截图/数据来源清楚
+
+ai_smell_signals:
+  - 参数堆砌但没有体验
+  - 像电商详情页
+  - 不提缺点的软广腔
+  - 泛泛说性能强、体验好

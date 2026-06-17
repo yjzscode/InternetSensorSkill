@@ -1,0 +1,35 @@
+# Topic framing: Travel / 旅游攻略
+# Domain layer applied on top of a platform's rules. Read offline (V1).
+
+topic: travel
+display_name: 旅游 / 旅行攻略
+aliases: [旅游, 旅行, 攻略, 出行, 周边游, travel, trip, itinerary, guide]
+
+audience_intent:
+  - 抄作业（直接照搬行程）   # copy a ready-made itinerary
+  - 避坑                    # avoid tourist traps / mistakes
+  - 预算规划                # budget planning
+  - 出片 / 打卡             # photogenic spots, check-ins
+
+typical_hooks:
+  - N天N夜超详细攻略         # day-by-day detailed plan
+  - 人均XXX就能玩            # surprising-budget hook
+  - 避雷 / 后悔没早看        # anti-trap, regret hook
+  - 小众宝藏目的地           # off-the-beaten-path gem
+
+saveability_cues:
+  - 逐日行程表 / 时间安排
+  - 具体花费明细（交通、住宿、门票）
+  - 交通和路线指引
+  - 最佳拍照点和时段
+
+credibility_cues:
+  - 亲身走过的真实路线
+  - 踩过的坑也写出来
+  - 具体店名 / 地名 / 价格
+  - 季节和天气提示
+
+ai_smell_signals:
+  - 泛泛而谈没有具体行程
+  - 像旅行社宣传册的措辞
+  - 没有花费 / 交通等实用信息

@@ -1,0 +1,280 @@
+{
+  "generated_at": "2026-06-16T18:51:31",
+  "platform": "xiaohongshu",
+  "accounts_path": "/Users/zyj/Library/Mobile Documents/com~apple~CloudDocs/InternetSensorSkill/myaccount/reference_accounts.md",
+  "provider": "auto",
+  "items_per_account": 5,
+  "accounts_count": 3,
+  "collected_items_count": 10,
+  "highest_vibe_score": 46.4,
+  "accounts": [
+    {
+      "account": {
+        "platform": "小红书",
+        "account_name": "绿缕铝驴",
+        "homepage_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+        "learn_what": "标题新颖，文案简洁",
+        "notes": "https://www.xiaohongshu.com/explore/69ca39620000000023007f4a?xsec_token=ABmbbB8SjkEhnzj84C2rkCknUQ7uAqrJlpeNQizXDUYUo=&xsec_source=pc_user"
+      },
+      "status": "ok",
+      "reason": "",
+      "query": "绿缕铝驴",
+      "provider": "cdp:xiaohongshu",
+      "ranked_by": "vibe_score",
+      "raw_result_count": 17,
+      "collected_count": 5,
+      "items": [
+        {
+          "title": "冰冷的同事变成温暖的skill",
+          "url": "https://www.xiaohongshu.com/search_result/69ca39620000000023007f4a?xsec_token=AB2KYksKeCJbAtKzoSlML3OBDZ1yklmzqvIEdor_Oro_Q=&xsec_source=",
+          "account": "绿缕铝驴",
+          "author": "绿缕铝驴",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 3867,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 46.4,
+          "source_account": "绿缕铝驴",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "这倒是提醒我了",
+          "url": "https://www.xiaohongshu.com/search_result/69d885ee0000000023020b90?xsec_token=ABfPhD-5f1fx0GUyeV0Lgo3Y0DC-0HZbtZwLZJC7jrKlo=&xsec_source=",
+          "account": "绿缕铝驴",
+          "author": "绿缕铝驴",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 417,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 14.8,
+          "source_account": "绿缕铝驴",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "NeurIPS25 | Domain-RAG OD数据增强新范式",
+          "url": "https://www.xiaohongshu.com/search_result/692ecf7d000000001d03dd7a?xsec_token=ABZ2s2NsoL7VWr-ZFKEb0GnVx4mUrCrByHqHfX0vmpfTw=&xsec_source=",
+          "account": "绿缕铝驴",
+          "author": "绿缕铝驴",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 68,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 3.7,
+          "source_account": "绿缕铝驴",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "ATBench：Agent 安全评测诊断的轨迹级基准",
+          "url": "https://www.xiaohongshu.com/search_result/69df486a000000001d01b3cb?xsec_token=ABH1Ywgad38rNCLjZnnboyxlwlmZTHz_JRfgB159G6x48=&xsec_source=",
+          "account": "绿缕铝驴",
+          "author": "绿缕铝驴",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 12,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 2.1,
+          "source_account": "绿缕铝驴",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "Curosr使用自己的中转api没法正常tool call",
+          "url": "https://www.xiaohongshu.com/search_result/69670cd4000000000b00ba3c?xsec_token=ABLOOYiR0xNVbxK81XGf7FJgKHwm-hNYuZBEW0_MbFuII=&xsec_source=",
+          "account": "绿缕铝驴",
+          "author": "绿缕铝驴",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 9,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 0.7,
+          "source_account": "绿缕铝驴",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/65375af10000000006004763?xsec_token=ABxfXXFxDAewC9sh6K9lPdV5GdRr-fj7fDkQWT6gUBDnY%3D&xsec_source=pc_search",
+          "match_confidence": "identity_match"
+        }
+      ],
+      "candidate_items": []
+    },
+    {
+      "account": {
+        "platform": "小红书",
+        "account_name": "XD:)",
+        "homepage_url": "https://www.xiaohongshu.com/user/profile/609635bf0000000001008b57?xsec_token=ABb04OO1TfOEynf1Jwr1482_-1a1JC0ik5rVhpyLnVDSY=&xsec_source=pc_comment",
+        "learn_what": "宣传时标题炸裂，科普标题朴实",
+        "notes": "https://www.xiaohongshu.com/explore/6a1f94bf0000000038036d28?xsec_token=ABuLOzX1fTBgDNYniC4f9QkFh09AzVgzmQMM7Im3pnq_A=&xsec_source=pc_user"
+      },
+      "status": "no_account_matched_results",
+      "reason": "Search returned results, but none could be tied back to the account identity.",
+      "query": "XD:)",
+      "provider": "cdp:xiaohongshu",
+      "ranked_by": "vibe_score",
+      "raw_result_count": 17,
+      "collected_count": 0,
+      "items": [],
+      "candidate_items": []
+    },
+    {
+      "account": {
+        "platform": "小红书",
+        "account_name": "Demitasse-",
+        "homepage_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+        "learn_what": "选题和人设打造",
+        "notes": "https://www.xiaohongshu.com/explore/69556733000000001e034521?xsec_token=ABFgCCYW3_4GruropBqRQ9IloppHKnCL3CdUthKCuOi1Q=&xsec_source=pc_user"
+      },
+      "status": "ok",
+      "reason": "",
+      "query": "Demitasse-",
+      "provider": "cdp:xiaohongshu",
+      "ranked_by": "vibe_score",
+      "raw_result_count": 19,
+      "collected_count": 5,
+      "items": [
+        {
+          "title": "三周低强度速通GRE330保姆级教程（超长干货",
+          "url": "https://www.xiaohongshu.com/search_result/66f2370c000000002a0309aa?xsec_token=ABLk8LffG3V2RFZ2MeAJImeuhjj-ZgEma7YHNlwvYJKu8=&xsec_source=",
+          "account": "Demitasse-",
+          "author": "Demitasse-",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 15000,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 38.2,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "阿里巴巴数学竞赛进决赛啦🏅️",
+          "url": "https://www.xiaohongshu.com/search_result/666a9aea000000001c02b610?xsec_token=AB7b-mRs9rEHd50ihx78Aceh4AyEiGttGaEosL3E2RPWI=&xsec_source=",
+          "account": "Demitasse-",
+          "author": "Demitasse-",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 14000,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 35.2,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "🇺🇸26 CS Summer Intern经验分享（不海投版",
+          "url": "https://www.xiaohongshu.com/search_result/6a03f51300000000080276b7?xsec_token=AB1s4j3lvO7bKsxhA0U5yjJvIFZJ--baB_nvrjVUsJkRU=&xsec_source=",
+          "account": "Demitasse-",
+          "author": "Demitasse-",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 524,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 17.7,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "左滑帮我入职微软亚洲研究院👈🏻",
+          "url": "https://www.xiaohongshu.com/search_result/67efead6000000001d02cac5?xsec_token=ABQ0yTpyx1dlJMY66zVm2lTp7yIzOU-RJu2qiIJ3aaAPo=&xsec_source=",
+          "account": "Demitasse-",
+          "author": "Demitasse-",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 498,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 16.7,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "ICLR结束 开始放假",
+          "url": "https://www.xiaohongshu.com/search_result/6812353b0000000021001065?xsec_token=AB0811B34utuKJLHy8L9zIAnjJD7oTZk46DCJ48izAHvI=&xsec_source=",
+          "account": "Demitasse-",
+          "author": "Demitasse-",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 627,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 15.9,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "identity_match"
+        }
+      ],
+      "candidate_items": [
+        {
+          "title": "12月的第一天｜来杯上头的「demitasse」",
+          "url": "https://www.xiaohongshu.com/search_result/61a6c4eb000000002103f4d2?xsec_token=ABr25YksztsPwclXsIvOMpBR46kKxZMth4S3ge8ZnQ8jk=&xsec_source=",
+          "account": "一只狗勾",
+          "author": "一只狗勾",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 43,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 0.3,
+          "source_account": "Demitasse-",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e?xsec_token=AB3iYjMGH5bQHOEIxpzm44it69IH4Qa3qKlQ8HPfOLB88=&xsec_source=pc_note",
+          "match_confidence": "text_match_low_confidence"
+        }
+      ]
+    }
+  ],
+  "output_dir": "outputs/xiaohongshu/20260616-184807-learning-report",
+  "output_file": "outputs/xiaohongshu/20260616-184807-learning-report/learning_raw.json"
+}

@@ -1,0 +1,20 @@
+{
+  "platform": "xiaohongshu",
+  "account": "xiaohongshu_FromMath2Mad_example",
+  "risk_level": "medium",
+  "must_confirm_facts": {
+    "supported_by_source_links": [],
+    "needs_user_confirmation": [
+      "工具的真实形态与名称（.skill / 插件 / 脚本），原文写『网感增强.skill』，发布前需统一为真实名称。",
+      "三项功能描述（实时抓爆款 / 对齐账号定位 / 大博主选题引擎）是否与工具实际能力一致，避免夸大。",
+      "『评论区扣1，我整理用法发你们』这类互动承诺是否会真正兑现。"
+    ]
+  },
+  "platform_risk_notes": [
+    "已删除『涨粉速度就此起飞』等效果承诺与绝对化用词，降低夸大功效风险。",
+    "工具若未公开却暗示可领，可能被判定为站外引流，建议措辞停留在『自用/还在调』。",
+    "无医疗/金融/未授权图片风险。",
+    "无搬运洗稿风险：内容为第一人称原创经历，参考样本仅学结构未抄原句。"
+  ],
+  "source_links_status": "原文无 URL，未触发来源链接抓取"
+}

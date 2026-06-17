@@ -1,0 +1,37 @@
+# Topic framing: Pet / 宠物 (猫狗、养宠经验、萌宠日常)
+# Inspired by Xiaohongshu-style searchable care notes and emotional pet diaries.
+
+topic: pet
+display_name: 宠物 / 猫狗 / 养宠
+aliases: [宠物, 猫, 狗, 猫咪, 狗狗, 养猫, 养狗, 铲屎官, 毛孩子, 萌宠,
+          pet, cat, dog, kitten, puppy]
+
+audience_intent:
+  - 学养宠经验和避坑
+  - 找同类问题的解决办法
+  - 被萌宠日常治愈
+  - 收藏用品、喂养、训练清单
+
+typical_hooks:
+  - "养猫/养狗后才知道……"
+  - "新手千万别忽略这个信号"
+  - "我家猫/狗这个反应也太真实了"
+  - "花小钱解决了一个大麻烦"
+
+saveability_cues:
+  - 年龄、品种、体重、症状/行为背景
+  - 用品清单、价格和替代方案
+  - 训练步骤或护理流程
+  - 就医/驱虫/疫苗等时间节点
+
+credibility_cues:
+  - 明确区分个人经验和兽医建议
+  - 有连续观察而非一次性判断
+  - 写清适用条件和不适用情况
+  - 不夸大用品功效或治疗效果
+
+ai_smell_signals:
+  - 把宠物写得像通用模板
+  - 没有具体年龄、场景或行为细节
+  - 过度拟人但缺少真实观察
+  - 对健康问题给绝对化判断

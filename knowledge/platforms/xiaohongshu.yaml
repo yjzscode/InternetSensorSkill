@@ -1,0 +1,57 @@
+# Platform rule library: Xiaohongshu (RED / 小红书)
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+
+platform: xiaohongshu
+display_name: 小红书 / RED
+language: zh
+
+# Recurring high-performing title shapes. Templates, not literal text.
+title_patterns:
+  - "后悔没早点发现……"          # regret / late-discovery hook
+  - "真的被低估了……"            # underrated hook
+  - "不允许还有人不知道……"      # FOMO / public-service hook
+  - "开学N年才知道……"          # belated-realization hook
+  - "谁懂啊，这家店……"          # relatable exclamation hook
+  - "姐妹们冲，别问为什么"        # peer-to-peer urgency
+
+# Emotional levers that drive saves and shares on this platform.
+emotion_levers:
+  - 真实感        # authenticity — sounds like a real person, not an ad
+  - 反差感        # contrast — unexpected twist vs. first impression
+  - 惊喜感        # surprise / delight
+  - 稀缺感        # scarcity — "hidden gem", "almost missed it"
+  - 收藏价值      # save-worthiness — useful enough to bookmark
+
+# Canonical content skeleton.
+structure:
+  - Hook          # first 1-2 lines must stop the scroll
+  - 故事          # personal story / scene-setting
+  - 价值          # the concrete payoff (what / why / how much)
+  - 行动建议      # call to action — save, go try, comment
+
+formatting:
+  emoji: heavy            # emoji used liberally, especially in titles
+  line_breaks: frequent   # short lines, lots of whitespace
+  length: "100-500字"     # short and skimmable
+  hashtags: "3-6个"       # topic tags at the end
+  tone: 口语化            # casual, first-person, peer-to-peer
+
+# Signals that content reads as AI-written and kills vibe.
+ai_smell_signals:
+  - 过度排比          # over-use of parallel structure
+  - 空泛形容词        # vague adjectives with no specifics ("很好吃")
+  - 说教口吻          # lecturing / preachy tone
+  - 无具体细节        # no concrete numbers, names, sensory detail
+  - 完美无瑕的结尾    # tidy "总之" summary endings
+
+dos:
+  - 用第一人称讲真实经历，带具体细节（价格、时间、分量）
+  - 标题制造反差或稀缺感，前两行就给钩子
+  - 结尾给明确的行动建议（建议直接收藏 / 冲）
+  - 适度暴露小缺点，增强真实感
+
+donts:
+  - 不要写成广告腔或说明书腔
+  - 不要堆砌空泛形容词而无细节
+  - 不要用过于工整的书面语和排比句
+  - 不要把所有信息塞进一段，注意分行

@@ -1,0 +1,54 @@
+# Platform rule library: Douban / 豆瓣
+# Consumed offline by the Vibe Critic (V1). Retrieval uses CDP search pages and
+# captures ratings / discussion volume when present.
+
+platform: douban
+display_name: 豆瓣 / Douban
+language: zh
+
+title_patterns:
+  - "看完X，我终于明白……"        # reflective hook
+  - "X最被低估的一点是……"        # interpretation angle
+  - "不吹不黑，聊聊X……"          # balanced review
+  - "为什么X后劲这么大？"         # aftertaste / discussion
+  - "X里这个细节太妙了"           # detail-led hook
+  - "给还没看X的人一点提醒"       # gentle recommendation
+
+emotion_levers:
+  - 后劲          # lingering feeling
+  - 共鸣          # quiet resonance
+  - 细节发现      # close reading
+  - 审美判断      # taste and standards
+  - 克制真诚      # understated authenticity
+
+structure:
+  - 个人感受      # why it moved / disappointed me
+  - 具体细节      # scene, line, character, or passage
+  - 判断理由      # what works / what fails
+  - 推荐边界      # who should watch/read, who may not like it
+
+formatting:
+  emoji: none
+  line_breaks: moderate
+  length: "300-1200字"
+  hashtags: none
+  tone: 克制评论化
+
+ai_smell_signals:
+  - 空泛文艺腔
+  - 套话式影评书评
+  - 只讲剧情不讲判断
+  - 过度拔高主题
+  - 像简介而非真实观后感
+
+dos:
+  - 用具体场景/台词/段落证明你真的看过
+  - 保留复杂判断，不必强行满分或差评
+  - 说明适合哪些读者/观众
+  - 少用夸张标题，多给有辨识度的观点
+
+donts:
+  - 不要写营销号式安利
+  - 不要剧透关键反转而不提醒
+  - 不要把简介改写成评价
+  - 不要堆砌空泛形容词

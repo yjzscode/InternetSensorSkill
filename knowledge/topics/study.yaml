@@ -1,0 +1,36 @@
+# Topic framing: Study / 学习 (考研、求职、技能学习)
+# Domain layer applied on top of a platform's rules. Read offline (V1).
+
+topic: study
+display_name: 学习 / 考研 / 求职
+aliases: [学习, 考研, 考试, 求职, 面试, 校招, 经验, study, exam, job, interview, career]
+
+audience_intent:
+  - 找方法论 / 可复制的路径   # a repeatable method to follow
+  - 抄上岸 / 上岸经验         # success stories to copy
+  - 避坑 / 少走弯路           # avoid common mistakes
+  - 资料 / 工具清单           # resource and tool lists
+
+typical_hooks:
+  - 从X到Y的逆袭             # underdog-comeback hook
+  - N个月上岸 / 拿offer        # time-bound result hook
+  - 普通人也能复制            # "ordinary person" relatability
+  - 后悔没早知道的方法        # regret / late-discovery hook
+
+saveability_cues:
+  - 分阶段的时间规划表
+  - 具体资料 / 书 / 工具清单
+  - 可执行的每日 / 每周计划
+  - 量化的结果（分数、offer、时长）
+
+credibility_cues:
+  - 真实背景和起点（不藏丑）
+  - 具体数字和时间线
+  - 失败和走过的弯路
+  - 方法适用范围和前提
+
+ai_smell_signals:
+  - 励志口号但没有具体方法
+  - 正确的废话（"坚持就会成功"）
+  - 没有可执行步骤
+  - 像鸡汤而非经验贴

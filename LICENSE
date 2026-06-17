@@ -1,0 +1,199 @@
+InternetSensorSkill Personal and Non-Commercial Source-Available License v1.0
+
+Copyright (c) 2026 InternetSensorSkill contributors
+
+IMPORTANT NOTICE
+
+This is a source-available license for personal, research, educational,
+non-commercial, and local creator use. It is not an OSI-approved open source
+license, because it restricts commercial productization and resale.
+
+The English text below is the controlling license text. The Chinese section is
+provided for convenience only.
+
+1. Definitions
+
+"Software" means the InternetSensorSkill project, including its source code,
+prompts, documentation, configuration files, examples, knowledge files, tests,
+and other materials distributed with this repository, except Third-Party
+Materials.
+
+"You" means any individual or legal entity exercising rights under this
+License.
+
+"Licensor" means the copyright holder or authorized contributor making the
+Software available under this License.
+
+"Personal Use" means use by an individual for learning, research, experiments,
+local workflows, hobby projects, personal creator accounts, and personal
+content production.
+
+"Non-Commercial Use" means use that is not primarily intended for commercial
+advantage, monetary compensation, resale, paid access, or providing a paid
+product or service to third parties.
+
+"Commercial Productization" means packaging, hosting, integrating, reselling,
+or offering the Software, a modified version of the Software, or a product or
+service whose value derives substantially from the Software, for commercial
+advantage or monetary compensation.
+
+"Third-Party Materials" means third-party code, tools, models, libraries,
+datasets, examples, licenses, or other materials included in, referenced by, or
+used with the Software. Third-Party Materials are governed by their own
+licenses and notices, if any.
+
+2. Permitted Uses
+
+Subject to this License, You may:
+
+a. view, read, and study the Software;
+
+b. install and run the Software locally for Personal Use or Non-Commercial Use;
+
+c. use the Software with local agent hosts, including but not limited to Claude
+   Code, Codex, OpenClaw, and compatible AgentSkills hosts, for Personal Use or
+   Non-Commercial Use;
+
+d. modify the Software for Personal Use or Non-Commercial Use;
+
+e. use the Software to help create, revise, or analyze your own personal content
+   and personal creator-account content, provided that You do not offer the
+   Software itself, or a substantially similar service based on it, as a paid
+   product or service to third parties;
+
+f. redistribute unmodified or modified copies of the Software for
+   Non-Commercial Use, provided that You comply with Section 4; and
+
+g. submit issues, pull requests, patches, or other contributions to the
+   original project.
+
+3. Prohibited Uses
+
+Without prior written permission from the Licensor, You may not:
+
+a. package, sell, rent, lease, sublicense, or otherwise commercialize the
+   Software or its core functionality;
+
+b. offer the Software, a modified version of the Software, or a substantially
+   similar derivative as a commercial SaaS product, hosted service, managed
+   service, paid plugin, paid template, template-marketplace item, commercial
+   course bundle, agency tool, content-operation product, or other paid product
+   or service;
+
+c. integrate the Software as a core feature of a commercial product, paid agent
+   platform, paid automation system, commercial content platform, or paid
+   workflow service;
+
+d. deploy the Software for a company, team, client project, agency workflow, or
+   other organization in a way that is primarily intended for commercial
+   advantage, unless You have obtained separate permission;
+
+e. remove, obscure, or alter copyright notices, attribution notices, license
+   notices, or acknowledgements;
+
+f. claim that You authored the original Software or republish it as Your own
+   substantially similar product;
+
+g. use the Software in violation of applicable law, platform terms, privacy
+   rights, intellectual-property rights, or third-party rights; or
+
+h. use the Software to create, distribute, or automate spam, deceptive content,
+   unlawful content, or content that violates platform rules.
+
+4. Redistribution and Modified Versions
+
+If You redistribute the Software or a modified version for permitted
+Non-Commercial Use, You must:
+
+a. include a copy of this License;
+
+b. preserve copyright, license, attribution, and acknowledgement notices;
+
+c. clearly mark any material modifications You made;
+
+d. not imply endorsement by the original project or Licensor; and
+
+e. not impose terms that permit uses prohibited by this License.
+
+5. Outputs
+
+Subject to applicable law and third-party rights, this License does not claim
+ownership over content You independently provide to the Software or over content
+outputs generated for Your own Personal Use or Non-Commercial Use.
+
+You are responsible for reviewing outputs before publication, including
+checking facts, platform rules, privacy rights, copyright, image/material
+authorization, and any medical, legal, financial, educational, or other
+high-risk claims.
+
+6. Third-Party Materials
+
+Third-Party Materials are not relicensed under this License. Their own licenses
+and notices continue to apply. In particular, browser-access functionality
+under `skills/web-access/` references and integrates ideas and code structure
+from the upstream web-access project; review and comply with applicable upstream
+licenses and notices before redistribution or product use.
+
+7. No Trademark Rights
+
+This License does not grant permission to use the names, logos, trademarks, or
+service marks of the Licensor, the project, contributors, or referenced third
+parties, except as necessary for reasonable attribution and description.
+
+8. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, AVAILABILITY, OR COMPLIANCE
+WITH PLATFORM RULES.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR AND CONTRIBUTORS SHALL NOT
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO
+THE SOFTWARE, ITS USE, ITS OUTPUTS, PLATFORM ACCOUNT RISK, DATA LOSS, BUSINESS
+INTERRUPTION, OR THIRD-PARTY CLAIMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+10. Termination
+
+Your rights under this License terminate automatically if You violate its terms.
+Upon termination, You must stop all prohibited use and destroy or remove copies
+of the Software in Your possession or control, except copies that You are
+required to retain by law.
+
+11. Commercial Permission
+
+For commercial integration, redistribution, team deployment, productized use,
+SaaS use, paid plugin use, course bundle use, agency use, or any other use not
+clearly permitted above, You must obtain prior written permission from the
+Licensor.
+
+12. Contact
+
+Commercial licensing, team deployment, or redistribution requests should be
+directed to the project maintainer or repository owner.
+
+
+中文说明（仅供参考，以英文正文为准）
+
+本项目采用个人使用友好的 source-available 许可：
+
+1. 允许个人学习、研究、自用、非商业项目、本地 agent 工作流和个人创作者账号使用。
+
+2. 允许为个人账号、本地 agent、内部实验和非商业项目安装、运行、修改本项目。
+
+3. 在不违反第三方权利和平台规则的前提下，你可以使用本项目帮助你生成或优化自己的个人内容；但不得把本项目本身或其核心能力包装成面向第三方收费的产品或服务。
+
+4. 未经授权，禁止将本项目或其主要功能直接打包为商业产品、SaaS、付费插件、模板市场商品、课程配套售卖物、代运营工具、商业内容平台或其他收费服务。
+
+5. 未经授权，禁止将本项目作为商业产品、付费 agent 平台、商业自动化系统、团队工作流或客户项目的核心功能部署或集成。
+
+6. 允许非商业分发和修改版本，但必须保留本 LICENSE、版权声明、署名和致谢，并清楚标注你的修改。
+
+7. 不得移除署名后重新发布为自己的同类产品。
+
+8. 第三方材料不受本 LICENSE 重新授权；其中 `skills/web-access/` 等第三方来源或参考内容应遵守其上游许可和声明。
+
+9. 本项目按“现状”提供，不提供任何明示或默示担保。使用者需自行检查输出内容中的事实、版权、隐私、平台规则以及医学/法律/投资等高风险判断。
+
+10. 如需商业集成、二次分发、团队部署、产品化使用、SaaS 使用、付费插件、课程配套或代运营使用，请先获得项目维护者或仓库所有者的书面授权。

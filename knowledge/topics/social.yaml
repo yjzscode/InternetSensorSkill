@@ -1,0 +1,36 @@
+# Topic framing: Social Hotspots / 社会热点与公共讨论
+
+topic: social
+display_name: 社会热点 / 公共讨论
+aliases: [社会热点, 热搜, 公共事件, 新闻, 舆论, 争议, 政策, 民生, 事件,
+          news, social issue, public debate, trending]
+
+audience_intent:
+  - 快速理解发生了什么
+  - 获得清晰立场和判断框架
+  - 找可转发的一句话观点
+  - 参与评论区讨论
+
+typical_hooks:
+  - "这件事真正值得关注的是……"
+  - "别急着站队，先看三个事实"
+  - "X回应后，问题反而更清楚了"
+  - "一图/一段话讲清来龙去脉"
+
+saveability_cues:
+  - 时间线和关键事实
+  - 各方回应与来源
+  - 影响范围和后续节点
+  - 可验证的信息链接
+
+credibility_cues:
+  - 明确区分事实、观点和推测
+  - 引用可靠来源
+  - 不传播未经证实的信息
+  - 能解释为什么重要
+
+ai_smell_signals:
+  - 大而空的价值判断
+  - 没来源的断言
+  - 情绪煽动多于事实
+  - 复述新闻没有信息增量

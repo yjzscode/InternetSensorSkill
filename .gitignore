@@ -1,0 +1,44 @@
+# Outputs (generated at runtime)
+outputs/**
+!outputs/
+!outputs/.gitkeep
+!outputs/xiaohongshu/
+!outputs/xiaohongshu/20260616-194748-jano-diffusion-cvpr2026/
+!outputs/xiaohongshu/20260616-194748-jano-diffusion-cvpr2026/**
+!outputs/xiaohongshu/20260616-184807-learning-report/
+!outputs/xiaohongshu/20260616-184807-learning-report/**
+!outputs/xiaohongshu/20260617-145010-skill-tool-promo/
+!outputs/xiaohongshu/20260617-145010-skill-tool-promo/**
+!outputs/zhihu/
+!outputs/zhihu/20260617-142100-skill-promo/
+!outputs/zhihu/20260617-142100-skill-promo/**
+
+# Local/internal docs and media
+README_closesource.md
+InternetSensor.md
+
+# Local account examples / private account profiles
+myaccount/xiaohongshu_FromMath2Mad_example/
+
+# Credentials — never commit. Real config lives at ~/.trend-improver/config.json (0600).
+config.json
+.env
+*.local
+.claude/
+
+# web-access skill: its runtime config holds the browser preference; the proxy log too.
+skills/web-access/config.env
+cdp-proxy.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

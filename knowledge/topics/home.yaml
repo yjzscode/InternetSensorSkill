@@ -1,0 +1,37 @@
+# Topic framing: Home / 家居 (装修、软装、收纳、清洁)
+# Inspired by Xiaohongshu-style lifestyle/searchable "guide" notes.
+
+topic: home
+display_name: 家居 / 装修 / 软装
+aliases: [家居, 家装, 装修, 软装, 收纳, 清洁, 家电, 租房改造, 小家电, 家务,
+          home, interior, decor, renovation, storage, cleaning]
+
+audience_intent:
+  - 找可抄作业的空间方案
+  - 避免装修 / 软装踩坑
+  - 收藏清单、尺寸和购买建议
+  - 提升居住舒适度和生活秩序
+
+typical_hooks:
+  - "入住X个月，最庆幸做了这个决定"
+  - "别再盲买了，真正好用的是……"
+  - "小户型/出租屋也能这样改"
+  - "装修前没人告诉我的X件事"
+
+saveability_cues:
+  - 尺寸、预算、品牌/型号和购买渠道
+  - 前后对比图或改造步骤
+  - 清单式避坑和替代方案
+  - 适用户型、面积、生活习惯
+
+credibility_cues:
+  - 真实入住 / 使用时长
+  - 写清优点、缺点和不适合人群
+  - 有实拍细节而非只放效果图
+  - 预算拆分和决策理由具体
+
+ai_smell_signals:
+  - 只有高级感、氛围感等空泛形容
+  - 像商品详情页或装修公司广告
+  - 没有尺寸、预算、使用场景
+  - 全篇只夸不写缺点和维护成本

@@ -1,0 +1,36 @@
+# Topic framing: Film / 影视书影音
+
+topic: film
+display_name: 影视 / 电影 / 剧集 / 书影音
+aliases: [电影, 电视剧, 剧集, 综艺, 纪录片, 书影音, 影评, 剧评, 豆瓣,
+          film, movie, drama, series, review, cinema]
+
+audience_intent:
+  - 判断值不值得看
+  - 找同好讨论剧情、角色和细节
+  - 获得不剧透的推荐理由
+  - 看有态度的影评/剧评
+
+typical_hooks:
+  - "看完后劲很大"
+  - "最被低估的是这个细节"
+  - "不剧透说说为什么值得看"
+  - "它的问题和优点都很明显"
+
+saveability_cues:
+  - 适合/不适合人群
+  - 观看前提醒和避雷点
+  - 关键主创/类型/同类推荐
+  - 不剧透的亮点清单
+
+credibility_cues:
+  - 具体角色、场景、台词或镜头
+  - 有优缺点，不是纯安利
+  - 能说明自己的审美标准
+  - 剧透处提前标注
+
+ai_smell_signals:
+  - 通用影评模板
+  - 空泛文艺形容词
+  - 只复述剧情简介
+  - 强行拔高主题

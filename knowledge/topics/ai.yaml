@@ -1,0 +1,36 @@
+# Topic framing: AI / 人工智能 (科研、产品、工具)
+# Domain layer applied on top of a platform's rules. Read offline (V1).
+
+topic: ai
+display_name: AI / 人工智能
+aliases: [ai, 人工智能, 大模型, llm, 机器学习, 深度学习, agent, AI科研, 产品发布, prompt]
+
+audience_intent:
+  - 跟上前沿 / 不掉队        # stay current with fast-moving field
+  - 拿来即用的工具 / prompt   # ready-to-use tools and prompts
+  - 看懂原理 / 趋势判断       # understand mechanisms and trends
+  - 落地经验 / 踩坑           # real deployment experience
+
+typical_hooks:
+  - 颠覆 / 改变游戏规则       # paradigm-shift hook (use sparingly)
+  - 实测 N 个工具后……        # hands-on comparison hook
+  - 一句话讲清 X              # demystify-complex hook
+  - 我用 AI 做了 X            # build-result hook
+
+saveability_cues:
+  - 可复制的 prompt / 配置
+  - 工具清单和适用场景
+  - 量化的效果对比（速度、成本、质量）
+  - 复现步骤 / 代码片段
+
+credibility_cues:
+  - 真实测过而非二手转述
+  - 给出局限和失败案例
+  - 具体模型 / 版本 / 参数
+  - 区分炒作和实际能力
+
+ai_smell_signals:
+  - 满篇 buzzword 无实质（"赋能""颠覆"）
+  - 夸大其词 / 标题党无干货
+  - 没有具体工具、数据或复现路径
+  - 二手搬运无亲身验证

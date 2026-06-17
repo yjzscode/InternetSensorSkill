@@ -1,0 +1,158 @@
+{
+  "platform": "xiaohongshu",
+  "source": "/Users/zyj/Library/Mobile Documents/com~apple~CloudDocs/InternetSensorSkill/myaccount/xiaohongshu_FromMath2Mad_example/reference_accounts.md",
+  "source_type": "account_reference",
+  "reference_role": "account_style",
+  "ranked_by": "account_identity_then_vibe_score",
+  "accounts_count": 1,
+  "count": 3,
+  "examples": [
+    {
+      "title": "上交博0⃣️‖科研搞不出来的时候做什么",
+      "url": "https://www.xiaohongshu.com/search_result/662694cb000000000401bd1d?xsec_token=ABaJfZjwWWvKcn-05CDJRYwNWmKu1-jkVi373qzmBwNWQ=&xsec_source=",
+      "account": "FromMath2Mad",
+      "author": "FromMath2Mad",
+      "published": "",
+      "snippet": "",
+      "engagement": {
+        "likes": 18,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "vibe_score": 34.6,
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+      "source_type": "account_reference",
+      "reference_role": "account_style",
+      "match_confidence": "identity_match"
+    },
+    {
+      "title": "实验室只有我一个女生，汗流浃背了😓",
+      "url": "https://www.xiaohongshu.com/search_result/65a7ed27000000002b00f0a0?xsec_token=ABLbhBy8ozOoK8-hvF-9YSsNfVkM4WYgQbWdqbxyDOiwM=&xsec_source=",
+      "account": "FromMath2Mad",
+      "author": "FromMath2Mad",
+      "published": "",
+      "snippet": "",
+      "engagement": {
+        "likes": 7372,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "vibe_score": 26.3,
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+      "source_type": "account_reference",
+      "reference_role": "account_style",
+      "match_confidence": "identity_match"
+    },
+    {
+      "title": "上学轨迹|小镇做题家终将跨过山川大海🌊",
+      "url": "https://www.xiaohongshu.com/search_result/65a17cec000000001a0002ec?xsec_token=ABf74OMxQzH9a4K8DpyGIA7yMNAQJrGFBYgGN-AlTXNmg=&xsec_source=",
+      "account": "FromMath2Mad",
+      "author": "FromMath2Mad",
+      "published": "",
+      "snippet": "",
+      "engagement": {
+        "likes": 101,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "views": null
+      },
+      "vibe_score": 17.3,
+      "source_account": "FromMath2Mad",
+      "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+      "source_type": "account_reference",
+      "reference_role": "account_style",
+      "match_confidence": "identity_match"
+    }
+  ],
+  "accounts": [
+    {
+      "account": {
+        "platform": "小红书",
+        "account_name": "FromMath2Mad",
+        "homepage_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+        "learn_what": "都值得学习",
+        "notes": "https://www.xiaohongshu.com/explore/6a1fe6f90000000022014d24?xsec_token=ABuLOzX1fTBgDNYniC4f9QkOMbbB4eJ4a0xgX5vVK-L3M=&xsec_source=pc_user"
+      },
+      "status": "ok",
+      "reason": "",
+      "query": "FromMath2Mad",
+      "provider": "cdp:xiaohongshu",
+      "ranked_by": "vibe_score",
+      "raw_result_count": 20,
+      "collected_count": 3,
+      "items": [
+        {
+          "title": "上交博0⃣️‖科研搞不出来的时候做什么",
+          "url": "https://www.xiaohongshu.com/search_result/662694cb000000000401bd1d?xsec_token=ABaJfZjwWWvKcn-05CDJRYwNWmKu1-jkVi373qzmBwNWQ=&xsec_source=",
+          "account": "FromMath2Mad",
+          "author": "FromMath2Mad",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 18,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 34.6,
+          "source_account": "FromMath2Mad",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+          "source_type": "account_reference",
+          "reference_role": "account_style",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "实验室只有我一个女生，汗流浃背了😓",
+          "url": "https://www.xiaohongshu.com/search_result/65a7ed27000000002b00f0a0?xsec_token=ABLbhBy8ozOoK8-hvF-9YSsNfVkM4WYgQbWdqbxyDOiwM=&xsec_source=",
+          "account": "FromMath2Mad",
+          "author": "FromMath2Mad",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 7372,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 26.3,
+          "source_account": "FromMath2Mad",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+          "source_type": "account_reference",
+          "reference_role": "account_style",
+          "match_confidence": "identity_match"
+        },
+        {
+          "title": "上学轨迹|小镇做题家终将跨过山川大海🌊",
+          "url": "https://www.xiaohongshu.com/search_result/65a17cec000000001a0002ec?xsec_token=ABf74OMxQzH9a4K8DpyGIA7yMNAQJrGFBYgGN-AlTXNmg=&xsec_source=",
+          "account": "FromMath2Mad",
+          "author": "FromMath2Mad",
+          "published": "",
+          "snippet": "",
+          "engagement": {
+            "likes": 101,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "views": null
+          },
+          "vibe_score": 17.3,
+          "source_account": "FromMath2Mad",
+          "source_account_url": "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b?xsec_token=AB_so4k4spb7UufMqA5jMPElEuZk4YHliYeTGKhYRYuPM%3D&xsec_source=pc_search",
+          "source_type": "account_reference",
+          "reference_role": "account_style",
+          "match_confidence": "identity_match"
+        }
+      ],
+      "candidate_items": []
+    }
+  ]
+}

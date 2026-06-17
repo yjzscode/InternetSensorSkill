@@ -1,0 +1,40 @@
+# Topic framing: Food / 美食 (incl. 校园美食 campus food)
+# Domain layer applied on top of a platform's rules. Read offline (V1).
+
+topic: food
+display_name: 美食 / 校园美食
+aliases: [美食, 校园美食, 探店, 餐厅, 牛肉面, food, restaurant, campus food]
+
+# Why the audience reads this topic — frame the rewrite around these.
+audience_intent:
+  - 找好吃的不踩雷        # avoid bad choices, find reliable picks
+  - 收藏备用            # save for later / build a to-eat list
+  - 性价比参考          # value-for-money reference
+  - 跟风打卡            # social proof / check-in culture
+
+# Hook angles that consistently work in this niche.
+typical_hooks:
+  - 藏宝店 / 隐藏菜单    # hidden gem, secret menu
+  - 反差（不起眼但惊艳） # unremarkable exterior, amazing food
+  - 性价比震惊          # surprisingly cheap / generous portion
+  - 本地人才知道        # locals-only authenticity
+
+# What makes a food post worth saving / sharing.
+saveability_cues:
+  - 具体地址或位置参照   # exact location or landmark reference
+  - 价格和分量          # concrete price and portion
+  - 招牌菜点单建议       # what to order, what to skip
+  - 营业时间 / 排队提示  # hours, peak times, queue tips
+
+# Signals that build trust in a food rec.
+credibility_cues:
+  - 真实就餐细节（点了什么、味道如何）
+  - 缺点也写（不只夸）
+  - 多次光顾或长期观察
+  - 具体感官描述（口感、香味、火候）
+
+# Topic-specific AI-smell to avoid.
+ai_smell_signals:
+  - 「味道不错价格不贵」等空泛评价
+  - 没有任何具体菜品或细节
+  - 像点评网站模板而非真人体验

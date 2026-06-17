@@ -1,0 +1,11 @@
+# Required
+requests>=2.28.0
+PyYAML>=6.0
+pypdf>=4.0.0
+
+# Trend retrieval (V2):
+#   - bilibili: key-free, uses `requests` only — works out of the box.
+#   - tavily / exa / firecrawl: hosted REST search, called via `requests`, need an
+#     API key (run: python3 retrieval/retrieve.py --setup). No SDK required.
+#   - crawl4ai (optional, local crawler): pip install crawl4ai
+#       crawl4ai>=0.3.0

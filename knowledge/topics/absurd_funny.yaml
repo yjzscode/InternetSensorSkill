@@ -1,0 +1,37 @@
+# Topic framing: Absurd Funny / 抽象搞笑 (梗、整活、发疯文学)
+# For meme-like, highly contextual humor and platform-native joke posts.
+
+topic: absurd_funny
+display_name: 抽象搞笑 / 梗 / 整活
+aliases: [抽象, 搞笑, 梗, 整活, 发疯文学, 离谱, 段子, 好笑, 笑死, 逆天,
+          meme, funny, absurd, shitpost, joke]
+
+audience_intent:
+  - 快速获得情绪释放和共鸣
+  - 找可转发给朋友的梗
+  - 在评论区接梗、二创、玩梗
+  - 用荒诞表达真实处境
+
+typical_hooks:
+  - "不是，这也太抽象了"
+  - "我宣布这是今日离谱第一名"
+  - "当代年轻人的精神状态："
+  - "看完沉默了三秒然后笑出声"
+
+saveability_cues:
+  - 可复用的梗图/句式/表情包
+  - 适合转发的短句和场景标签
+  - 评论区可接龙的问题或空位
+  - 截图友好的节奏和排版
+
+credibility_cues:
+  - 梗和真实场景能对上
+  - 反差来自细节而非硬凑
+  - 语言像真人即时吐槽
+  - 留出评论区二创空间
+
+ai_smell_signals:
+  - 解释笑点，导致不好笑
+  - 网络热词堆叠但没有场景
+  - 过度工整、像段子模板
+  - 冒犯弱势群体或用低级攻击制造笑点

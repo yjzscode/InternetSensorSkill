@@ -1,0 +1,37 @@
+# Topic framing: Research / 科研 (论文、实验室、读博、投稿)
+# For academic-life and research-process posts beyond the AI-only topic.
+
+topic: research
+display_name: 科研 / 学术 / 论文
+aliases: [科研, 学术, 论文, paper, 投稿, 实验室, 研究生, 读博, 博士, PhD,
+          顶会, 会议, 期刊, review, rebuttal, lab, academia, research]
+
+audience_intent:
+  - 看懂研究工作的价值和贡献
+  - 学科研方法、投稿经验和踩坑
+  - 获得实验室 / 读博生活共鸣
+  - 收藏论文、代码、复现和学习路径
+
+typical_hooks:
+  - "这篇论文真正有意思的是……"
+  - "投稿/返修后我才明白的事"
+  - "一句话讲清这个工作的贡献"
+  - "科研日常里最真实的一幕"
+
+saveability_cues:
+  - 论文链接、代码链接、数据集和复现路径
+  - 问题定义、方法贡献和适用场景
+  - 投稿时间线、审稿意见和经验清单
+  - 给学弟学妹可执行的阅读/实验建议
+
+credibility_cues:
+  - 明确会议/期刊、作者身份和来源
+  - 区分论文声称、个人理解和推测
+  - 写清局限、失败实验或适用边界
+  - 不夸大排名、奖项和外部背书
+
+ai_smell_signals:
+  - 只有高大上概念，没有具体贡献
+  - 把论文包装成营销稿或捷报模板
+  - 未读原文却泛泛总结
+  - 编造数据、排名、经历或审稿细节

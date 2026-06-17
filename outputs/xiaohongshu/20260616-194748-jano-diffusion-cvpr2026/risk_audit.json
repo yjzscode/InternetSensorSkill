@@ -1,0 +1,83 @@
+{
+  "platform": "xiaohongshu",
+  "risk_level": "low",
+  "must_confirm_facts": [],
+  "supported_by_source_links": [
+    {
+      "claim": "JANO 是 CVPR 2026 Findings 的 training-free 框架，通过早期复杂度识别 + 自适应 token 调度实现 region-aware 加速",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.key_sections.abstract"
+    },
+    {
+      "claim": "平均 2.0× 加速，最高 2.4×，且基本无可感知质量损失",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt：'average 2.0× speedup, up to 2.4× ... with agnostic quality loss / no perceptual loss'"
+    },
+    {
+      "claim": "用 Wan2.1-14B 在单张 A100 上生成 5 秒 720p 视频需一个多小时",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.key_sections.introduction_excerpt：'generating merely a 5-second 720p video using the Wan2.1-14B model on a single NVIDIA A100 GPU requires over an hour'"
+    },
+    {
+      "claim": "瓶颈在 DiT 全注意力，复杂度随序列长度平方上涨",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt：'DiTs require full-sequence attention ... quadratic computational complexity with respect to sequence length'"
+    },
+    {
+      "claim": "不同区域收敛速度不同：语义复杂区域（如脸部）需更多步，简单区域（如纯色背景）很快收敛",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt：'semantically rich regions (e.g., facial features) demand sustained computational effort ... structurally simple regions (e.g., uniform backgrounds) converge within far fewer steps'"
+    },
+    {
+      "claim": "JANO 取名自罗马神话中同时回望过去、预见未来的双面神",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt：'Named after the Roman god who simultaneously observes past and future'"
+    },
+    {
+      "claim": "代码已开源，地址 https://github.com/chen-yy20/Jano",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt：'The source code of our implementation is available at https://github.com/chen-yy20/Jano'"
+    },
+    {
+      "claim": "工作来自上海交大 / 上海人工智能实验室 / 清华的合作",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Jano_Adaptive_Diffusion_Generation_with_Early-Stage_Convergence_Awareness_CVPRF_2026_paper.pdf",
+      "evidence": "source_links.text_excerpt 作者署名：Shanghai Jiaotong University / Shanghai AI Laboratory / Tsinghua University"
+    }
+  ],
+  "source_link_warnings": [],
+  "platform_risks": [
+    {
+      "type": "mild_clickbait_title",
+      "severity": "low",
+      "reason": "标题「让扩散模型自己『偷懒』，速度直接快一倍」带轻度反差钩子，但与 source_links 中 2.0× 加速结论一致，未夸大，属小红书科普常见表达",
+      "suggested_fix": "无需修改；若想更稳，可加限定词如『最高快 2.4 倍』"
+    },
+    {
+      "type": "self_promotion_of_own_work",
+      "severity": "low",
+      "reason": "内容为作者本人发表工作的分享，非搬运/洗稿；保留了真实人设细节，符合账号定位",
+      "suggested_fix": "无需修改"
+    }
+  ],
+  "image_or_material_risks": [
+    {
+      "type": "no_image_material",
+      "severity": "low",
+      "reason": "testcase 标注『（无图片素材）』，本次不涉及图片授权问题；若后续配图需确认来源与授权"
+    }
+  ],
+  "removed_unverifiable_claims": [
+    {
+      "claim": "共一第一第二已位列🐧青云",
+      "reason": "属个人信息且无法从 source_links 核实，改写已主动移除，避免不可验证表述",
+      "status": "already_removed_in_rewrite"
+    }
+  ],
+  "safe_to_publish": true,
+  "publish_notes": [
+    "改写新增的所有具体事实（2.0×/2.4× 加速、Wan2.1-14B/A100 一小时、training-free、双面神命名、GitHub 地址、三家机构）均可在 source_links 的 JANO 论文中核实，无待用户确认事实",
+    "原文不可核实的个人排名信息已在改写阶段移除；如作者本人确认属实可自行加回",
+    "GitHub 开源地址来自论文原文，发布前可顺手确认仓库可访问"
+  ],
+  "disclaimer": "本审查只做发布风险提醒，不构成法律、医学或投资建议。"
+}

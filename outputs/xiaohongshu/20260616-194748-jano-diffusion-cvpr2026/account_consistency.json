@@ -1,0 +1,44 @@
+{
+  "platform": "xiaohongshu",
+  "account_positioning_available": true,
+  "account_consistency_score": 84,
+  "dimension_scores": {
+    "target_audience_fit": 9,
+    "domain_fit": 9,
+    "content_pillar_fit": 8,
+    "value_promise_fit": 8,
+    "voice_style_fit": 8,
+    "perspective_fit": 9,
+    "reference_account_alignment": 8,
+    "platform_format_fit": 7
+  },
+  "penalties": [],
+  "caps_applied": [],
+  "calculation": {
+    "weights": {
+      "target_audience_fit": 1.4,
+      "domain_fit": 1.6,
+      "content_pillar_fit": 1.2,
+      "value_promise_fit": 1.2,
+      "voice_style_fit": 1.3,
+      "perspective_fit": 1.0,
+      "reference_account_alignment": 0.8,
+      "platform_format_fit": 0.7
+    },
+    "weight_sum": 9.2,
+    "weighted_sum_0_to_10": 76.9,
+    "base_0_to_10": 8.36,
+    "raw_score": 83.6,
+    "penalty_total": 0,
+    "score_after_penalty": 83.6,
+    "rounded": 84
+  },
+  "verdict": "高度契合账号定位：AI 科研主领域、面向 AI 同行与高校学生的硬核科普分享，第一人称作者视角真诚自然，保留了「打球+开组会」的活人感，学到了参考账号「会议名+一句话亮点」的体例而未照搬。无领域偏离、无人群错位、无品牌风险，不触发任何惩罚或上限。",
+  "revision_advice": [
+    "正文偏长，略超账号偏好的 500 字以内；可压缩痛点铺垫与机构致谢，让阅读更轻快",
+    "账号定位偏好「每句话前加一个图标」，当前仅部分行使用 emoji，可统一图标分隔以更贴合既有版式",
+    "可在开头一句强化博主本人「AI 博士在读 + 论文作者」的身份钩子，进一步突出个人 IP 视角"
+  ],
+  "reference_account_alignment_note": "对齐 account_reference_examples 中 reference_role=account_style 的样本（绿缕铝驴「标题新颖、文案简洁」、Demitasse-「选题/人设打造」）：学到了学术分享的结构与节奏，事实与人设仍属用户本人，未照搬原句、标题模板或账号身份，故未触发 over_imitation。",
+  "formula_config": "myaccount/para_config.yaml#account_consistency"
+}

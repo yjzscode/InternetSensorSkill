@@ -1,0 +1,61 @@
+# Platform rule library: 微信公众号 (WeChat Official Account)
+# Consumed offline by the Vibe Critic (V1). English keys, bilingual values.
+# Retrieval is via the CDP browser provider (Sogou weixin gateway); the search
+# listing exposes no engagement counts, so V2 ranks these by relevance, not vibe_score.
+
+platform: weixin
+display_name: 微信公众号 / WeChat Official Account
+language: zh
+
+# Recurring high-performing title shapes for 公众号 图文. Templates, not literal text.
+title_patterns:
+  - "为什么……？"                  # 设问 / curiosity hook（最常见）
+  - "刷屏了！……"                  # 时效 / 热点蹭点 hook
+  - "我们扒了X，发现……"           # 深扒 / 信息增量 hook
+  - "X的得与失，聊聊……"           # 评论 / 复盘 hook
+  - "再看X：当年……如今……"        # 怀旧对比 hook
+  - "一文讲清X"                    # 干货 / 科普 hook
+
+# Emotional levers that drive 在看 / 转发 / 收藏 on this platform.
+emotion_levers:
+  - 共鸣        # resonance — speaks the reader's mind, worth forwarding
+  - 信息增量    # new info / insight they didn't have
+  - 观点鲜明    # a clear, defendable stance (not fence-sitting)
+  - 时效热点    # rides a current event / trending topic
+  - 谈资        # social currency — gives the reader something to discuss
+
+# Canonical 图文 article skeleton.
+structure:
+  - 标题          # title carries the whole click — 设问 / 悬念 / 蹭热点
+  - 导语          # opening that frames why this matters now
+  - 正文          # body with 小标题 subsections, one idea each
+  - 结尾互动      # closing question + 转发/在看 引导
+
+formatting:
+  emoji: light            # selective; 公众号 is more 图文 than emoji-heavy
+  line_breaks: frequent   # short paragraphs, mobile-readable
+  length: "800-2000字"    # long-form 图文, scannable with subheads
+  hashtags: none          # no inline hashtags; topics live in 话题 tags
+  tone: 观点化            # opinionated, columnist voice, structured
+
+# Signals that content reads as AI-written / 营销号 and kills vibe.
+ai_smell_signals:
+  - 营销号腔          # clickbait-farm tone, hollow hype, "震惊体"
+  - 正确的废话        # technically-true but content-free statements
+  - 无观点的罗列      # listing facts with no stance or insight
+  - 通用到换主题也成立 # generic; could swap the subject and still fit
+  - 标题党货不对板    # title oversells what the body delivers
+
+dos:
+  - 标题用设问或悬念制造点击欲，但正文要兜得住
+  - 有明确观点和信息增量，给读者「谈资」
+  - 用小标题分段，一段一个意思，方便手机扫读
+  - 结尾设置提问 + 明确转发/在看引导
+  - 蹭热点要快、要有自己的角度
+
+donts:
+  - 不要写营销号式震惊体、空洞吹捧
+  - 不要只罗列事实而没有观点
+  - 不要标题党、货不对板
+  - 不要写通用到换个主题也成立的内容
+  - 不要堆砌正确的废话
