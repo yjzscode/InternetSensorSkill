@@ -7,7 +7,13 @@
   <video src="https://github.com/yjzscode/InternetSensorSkill/raw/main/Screen-2026-06-17-155458.mp4" controls muted loop style="width:100%; height:auto; max-width:960px;"></video>
 </p>
 
-[Open the demo video](https://github.com/yjzscode/InternetSensorSkill/blob/main/Screen-2026-06-17-155458.mp4)
+<details>
+  <summary>🎬 Click for Demo Video </summary>
+  <br>
+  
+  [https://github.com/yjzscode/InternetSensorSkill/raw/main/Screen-2026-06-17-155458.mp4](https://github.com/yjzscode/InternetSensorSkill/raw/main/Screen-2026-06-17-155458.mp4)
+
+</details>
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Compatible-green)](https://agentskills.io)
