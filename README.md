@@ -1,4 +1,5 @@
 # 📈 InternetSensorSkill
+### *"Find what makes content go viral in your account!"*
 ### *"Where real-time virality meets long-term account positioning."*
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
