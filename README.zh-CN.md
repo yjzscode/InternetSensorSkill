@@ -1,5 +1,5 @@
 # 📈 InternetSensorSkill（网感增强.skill）
-### *实时爆款网感 × 长期账号定位*
+### *抓住流量密码！实时爆款网感 × 长期账号定位*
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Compatible-green)](https://agentskills.io)
